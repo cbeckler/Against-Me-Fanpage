@@ -28,3 +28,21 @@ a:visited {
     background-color: transparent;
     text-decoration: none;
   }
+.bandPic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+.picButton {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%
+}
+.YTvideo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 45%;
+}
